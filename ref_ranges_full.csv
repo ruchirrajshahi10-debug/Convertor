@@ -1,0 +1,55 @@
+marker,platform,lower_ref,upper_ref,units
+AFP,Roche cobas,0,10,ng/mL
+AFP,Abbott ARCHITECT,0,10,ng/mL
+AFP,Siemens ADVIA,0,10,ng/mL
+AFP,Beckman DxI,0,10,ng/mL
+AFP,VITROS,0,10,ng/mL
+AFP,bioMérieux VIDAS,0,10,ng/mL
+AFP,Abbott Alinity,0,10,ng/mL
+AFP,Siemens Atellica,0,10,ng/mL
+AFP,Roche e411,0,10,ng/mL
+CA125,Roche cobas,0,35,U/mL
+CA125,Abbott ARCHITECT,0,35,U/mL
+CA125,Siemens ADVIA,0,35,U/mL
+CA125,Beckman DxI,0,35,U/mL
+CA125,VITROS,0,35,U/mL
+CA125,bioMérieux VIDAS,0,35,U/mL
+CA125,Abbott Alinity,0,35,U/mL
+CA125,Siemens Atellica,0,35,U/mL
+CA125,Roche e411,0,35,U/mL
+CA19-9,Roche cobas,0,37,U/mL
+CA19-9,Abbott ARCHITECT,0,37,U/mL
+CA19-9,Siemens ADVIA,0,37,U/mL
+CA19-9,Beckman DxI,0,37,U/mL
+CA19-9,VITROS,0,37,U/mL
+CA19-9,bioMérieux VIDAS,0,37,U/mL
+CA19-9,Abbott Alinity,0,37,U/mL
+CA19-9,Siemens Atellica,0,37,U/mL
+CA19-9,Roche e411,0,37,U/mL
+CEA,Roche cobas,0,5,ng/mL
+CEA,Abbott ARCHITECT,0,5,ng/mL
+CEA,Siemens ADVIA,0,5,ng/mL
+CEA,Beckman DxI,0,5,ng/mL
+CEA,VITROS,0,5,ng/mL
+CEA,bioMérieux VIDAS,0,5,ng/mL
+CEA,Abbott Alinity,0,5,ng/mL
+CEA,Siemens Atellica,0,5,ng/mL
+CEA,Roche e411,0,5,ng/mL
+hCG,Roche cobas,0,5,IU/L
+hCG,Abbott ARCHITECT,0,5,IU/L
+hCG,Siemens ADVIA,0,5,IU/L
+hCG,Beckman DxI,0,5,IU/L
+hCG,VITROS,0,5,IU/L
+hCG,bioMérieux VIDAS,0,5,IU/L
+hCG,Abbott Alinity,0,5,IU/L
+hCG,Siemens Atellica,0,5,IU/L
+hCG,Roche e411,0,5,IU/L
+PSA,Roche cobas,0,4,ng/mL
+PSA,Abbott ARCHITECT,0,4,ng/mL
+PSA,Siemens ADVIA,0,4,ng/mL
+PSA,Beckman DxI,0,4,ng/mL
+PSA,VITROS,0,4,ng/mL
+PSA,bioMérieux VIDAS,0,4,ng/mL
+PSA,Abbott Alinity,0,4,ng/mL
+PSA,Siemens Atellica,0,4,ng/mL
+PSA,Roche e411,0,4,ng/mL

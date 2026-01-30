@@ -1,0 +1,433 @@
+marker,source_platform,target_platform,slope,intercept
+AFP,Roche cobas,Abbott ARCHITECT,0.975,4.51
+AFP,Roche cobas,Siemens ADVIA,1.332,0.99
+AFP,Roche cobas,Beckman DxI,0.756,-3.44
+AFP,Roche cobas,VITROS,0.658,3.66
+AFP,Roche cobas,bioMérieux VIDAS,1.201,2.08
+AFP,Roche cobas,Abbott Alinity,0.621,4.7
+AFP,Roche cobas,Siemens Atellica,1.432,-2.88
+AFP,Roche cobas,Roche e411,0.782,-3.17
+AFP,Abbott ARCHITECT,Roche cobas,0.904,0.25
+AFP,Abbott ARCHITECT,Siemens ADVIA,1.032,-2.09
+AFP,Abbott ARCHITECT,Beckman DxI,1.212,-3.61
+AFP,Abbott ARCHITECT,VITROS,0.892,-1.34
+AFP,Abbott ARCHITECT,bioMérieux VIDAS,1.056,2.85
+AFP,Abbott ARCHITECT,Abbott Alinity,0.8,0.14
+AFP,Abbott ARCHITECT,Siemens Atellica,1.192,-4.54
+AFP,Abbott ARCHITECT,Roche e411,1.208,-3.29
+AFP,Siemens ADVIA,Roche cobas,0.665,4.49
+AFP,Siemens ADVIA,Abbott ARCHITECT,1.566,3.08
+AFP,Siemens ADVIA,Beckman DxI,0.905,-4.02
+AFP,Siemens ADVIA,VITROS,1.284,-0.6
+AFP,Siemens ADVIA,bioMérieux VIDAS,0.722,-0.05
+AFP,Siemens ADVIA,Abbott Alinity,0.634,4.09
+AFP,Siemens ADVIA,Siemens Atellica,0.859,1.63
+AFP,Siemens ADVIA,Roche e411,0.912,0.2
+AFP,Beckman DxI,Roche cobas,1.147,-3.15
+AFP,Beckman DxI,Abbott ARCHITECT,1.57,2.75
+AFP,Beckman DxI,Siemens ADVIA,1.539,3.95
+AFP,Beckman DxI,VITROS,1.198,4.22
+AFP,Beckman DxI,bioMérieux VIDAS,0.688,-3.04
+AFP,Beckman DxI,Abbott Alinity,0.645,-1.75
+AFP,Beckman DxI,Siemens Atellica,0.989,-2.29
+AFP,Beckman DxI,Roche e411,1.429,-1.43
+AFP,VITROS,Roche cobas,0.881,0.43
+AFP,VITROS,Abbott ARCHITECT,0.741,3.02
+AFP,VITROS,Siemens ADVIA,0.675,4.87
+AFP,VITROS,Beckman DxI,1.372,-3.01
+AFP,VITROS,bioMérieux VIDAS,0.606,3.15
+AFP,VITROS,Abbott Alinity,1.307,2.29
+AFP,VITROS,Siemens Atellica,1.371,-4.26
+AFP,VITROS,Roche e411,0.958,-3.84
+AFP,bioMérieux VIDAS,Roche cobas,1.463,1.23
+AFP,bioMérieux VIDAS,Abbott ARCHITECT,0.931,-4.36
+AFP,bioMérieux VIDAS,Siemens ADVIA,0.911,-1.75
+AFP,bioMérieux VIDAS,Beckman DxI,1.33,1.38
+AFP,bioMérieux VIDAS,VITROS,1.487,-0.28
+AFP,bioMérieux VIDAS,Abbott Alinity,0.72,2.13
+AFP,bioMérieux VIDAS,Siemens Atellica,1.361,0.61
+AFP,bioMérieux VIDAS,Roche e411,1.371,-0.06
+AFP,Abbott Alinity,Roche cobas,1.123,-0.72
+AFP,Abbott Alinity,Abbott ARCHITECT,0.625,-3.92
+AFP,Abbott Alinity,Siemens ADVIA,0.631,1.36
+AFP,Abbott Alinity,Beckman DxI,0.914,0.09
+AFP,Abbott Alinity,VITROS,1.508,-2.51
+AFP,Abbott Alinity,bioMérieux VIDAS,1.01,2.56
+AFP,Abbott Alinity,Siemens Atellica,0.829,-4.23
+AFP,Abbott Alinity,Roche e411,0.89,-3.39
+AFP,Siemens Atellica,Roche cobas,1.53,3.08
+AFP,Siemens Atellica,Abbott ARCHITECT,1.233,3.71
+AFP,Siemens Atellica,Siemens ADVIA,1.404,-3.13
+AFP,Siemens Atellica,Beckman DxI,1.493,0.39
+AFP,Siemens Atellica,VITROS,1.407,3.96
+AFP,Siemens Atellica,bioMérieux VIDAS,0.918,-3.9
+AFP,Siemens Atellica,Abbott Alinity,0.828,-0.73
+AFP,Siemens Atellica,Roche e411,1.418,3.61
+AFP,Roche e411,Roche cobas,0.607,0.11
+AFP,Roche e411,Abbott ARCHITECT,1.017,-2.78
+AFP,Roche e411,Siemens ADVIA,0.72,-1.62
+AFP,Roche e411,Beckman DxI,1.543,-1.77
+AFP,Roche e411,VITROS,1.119,2.03
+AFP,Roche e411,bioMérieux VIDAS,0.964,4.72
+AFP,Roche e411,Abbott Alinity,1.562,-2.48
+AFP,Roche e411,Siemens Atellica,1.097,-1.99
+CA125,Roche cobas,Abbott ARCHITECT,0.885,-4.63
+CA125,Roche cobas,Siemens ADVIA,1.21,0.03
+CA125,Roche cobas,Beckman DxI,0.651,-2.21
+CA125,Roche cobas,VITROS,1.508,-2.6
+CA125,Roche cobas,bioMérieux VIDAS,0.745,-0.11
+CA125,Roche cobas,Abbott Alinity,1.586,-2.58
+CA125,Roche cobas,Siemens Atellica,1.272,2.62
+CA125,Roche cobas,Roche e411,0.838,2.28
+CA125,Abbott ARCHITECT,Roche cobas,0.968,1.32
+CA125,Abbott ARCHITECT,Siemens ADVIA,1.234,0.36
+CA125,Abbott ARCHITECT,Beckman DxI,0.69,3.35
+CA125,Abbott ARCHITECT,VITROS,0.921,-3.13
+CA125,Abbott ARCHITECT,bioMérieux VIDAS,0.641,0.91
+CA125,Abbott ARCHITECT,Abbott Alinity,1.278,-4.83
+CA125,Abbott ARCHITECT,Siemens Atellica,1.112,-2.74
+CA125,Abbott ARCHITECT,Roche e411,1.245,-3.26
+CA125,Siemens ADVIA,Roche cobas,1.291,-1.13
+CA125,Siemens ADVIA,Abbott ARCHITECT,1.537,-3.62
+CA125,Siemens ADVIA,Beckman DxI,0.941,-3.87
+CA125,Siemens ADVIA,VITROS,1.525,3.77
+CA125,Siemens ADVIA,bioMérieux VIDAS,0.858,1.6
+CA125,Siemens ADVIA,Abbott Alinity,1.417,0.55
+CA125,Siemens ADVIA,Siemens Atellica,1.13,-2.58
+CA125,Siemens ADVIA,Roche e411,0.693,3.97
+CA125,Beckman DxI,Roche cobas,1.5,1.33
+CA125,Beckman DxI,Abbott ARCHITECT,0.939,-1.51
+CA125,Beckman DxI,Siemens ADVIA,1.326,3.97
+CA125,Beckman DxI,VITROS,1.487,2.8
+CA125,Beckman DxI,bioMérieux VIDAS,1.242,-4.16
+CA125,Beckman DxI,Abbott Alinity,0.762,3.99
+CA125,Beckman DxI,Siemens Atellica,1.206,-4.91
+CA125,Beckman DxI,Roche e411,0.701,1.64
+CA125,VITROS,Roche cobas,0.605,-3.39
+CA125,VITROS,Abbott ARCHITECT,1.149,1.92
+CA125,VITROS,Siemens ADVIA,1.252,-2.76
+CA125,VITROS,Beckman DxI,1.312,-2.63
+CA125,VITROS,bioMérieux VIDAS,0.925,2.46
+CA125,VITROS,Abbott Alinity,1.25,3.49
+CA125,VITROS,Siemens Atellica,1.258,0.68
+CA125,VITROS,Roche e411,0.694,-1.32
+CA125,bioMérieux VIDAS,Roche cobas,0.865,-2.56
+CA125,bioMérieux VIDAS,Abbott ARCHITECT,1.573,-1.07
+CA125,bioMérieux VIDAS,Siemens ADVIA,1.492,1.31
+CA125,bioMérieux VIDAS,Beckman DxI,1.395,0.03
+CA125,bioMérieux VIDAS,VITROS,1.177,-0.07
+CA125,bioMérieux VIDAS,Abbott Alinity,0.795,2.22
+CA125,bioMérieux VIDAS,Siemens Atellica,0.881,-4.76
+CA125,bioMérieux VIDAS,Roche e411,1.245,-3.23
+CA125,Abbott Alinity,Roche cobas,1.54,4.54
+CA125,Abbott Alinity,Abbott ARCHITECT,1.515,-1.3
+CA125,Abbott Alinity,Siemens ADVIA,0.615,4.28
+CA125,Abbott Alinity,Beckman DxI,1.028,4.67
+CA125,Abbott Alinity,VITROS,1.564,3.53
+CA125,Abbott Alinity,bioMérieux VIDAS,0.894,-1.15
+CA125,Abbott Alinity,Siemens Atellica,1.451,-1.83
+CA125,Abbott Alinity,Roche e411,0.769,0.57
+CA125,Siemens Atellica,Roche cobas,1.536,1.96
+CA125,Siemens Atellica,Abbott ARCHITECT,1.17,-4.03
+CA125,Siemens Atellica,Siemens ADVIA,1.215,4.9
+CA125,Siemens Atellica,Beckman DxI,0.74,0.18
+CA125,Siemens Atellica,VITROS,1.477,2.41
+CA125,Siemens Atellica,bioMérieux VIDAS,1.297,2.02
+CA125,Siemens Atellica,Abbott Alinity,0.959,-2.06
+CA125,Siemens Atellica,Roche e411,1.409,3.1
+CA125,Roche e411,Roche cobas,1.467,4.13
+CA125,Roche e411,Abbott ARCHITECT,1.111,0.02
+CA125,Roche e411,Siemens ADVIA,1.398,1.5
+CA125,Roche e411,Beckman DxI,1.302,2.96
+CA125,Roche e411,VITROS,1.49,-1.62
+CA125,Roche e411,bioMérieux VIDAS,0.976,-4.06
+CA125,Roche e411,Abbott Alinity,1.178,-4.64
+CA125,Roche e411,Siemens Atellica,1.066,0.43
+CA19-9,Roche cobas,Abbott ARCHITECT,0.887,0.91
+CA19-9,Roche cobas,Siemens ADVIA,0.631,-4.63
+CA19-9,Roche cobas,Beckman DxI,1.423,-1.4
+CA19-9,Roche cobas,VITROS,0.727,0.22
+CA19-9,Roche cobas,bioMérieux VIDAS,1.37,-2.84
+CA19-9,Roche cobas,Abbott Alinity,1.223,-4.15
+CA19-9,Roche cobas,Siemens Atellica,0.652,0.31
+CA19-9,Roche cobas,Roche e411,1.141,1.37
+CA19-9,Abbott ARCHITECT,Roche cobas,1.326,4.76
+CA19-9,Abbott ARCHITECT,Siemens ADVIA,1.116,-1.77
+CA19-9,Abbott ARCHITECT,Beckman DxI,1.395,-2.29
+CA19-9,Abbott ARCHITECT,VITROS,1.039,-4.22
+CA19-9,Abbott ARCHITECT,bioMérieux VIDAS,0.625,4.63
+CA19-9,Abbott ARCHITECT,Abbott Alinity,1.436,1.96
+CA19-9,Abbott ARCHITECT,Siemens Atellica,1.009,-3.27
+CA19-9,Abbott ARCHITECT,Roche e411,0.756,-2.5
+CA19-9,Siemens ADVIA,Roche cobas,1.149,2.15
+CA19-9,Siemens ADVIA,Abbott ARCHITECT,1.26,-2.2
+CA19-9,Siemens ADVIA,Beckman DxI,1.555,2.38
+CA19-9,Siemens ADVIA,VITROS,1.154,1.12
+CA19-9,Siemens ADVIA,bioMérieux VIDAS,1.02,-2.52
+CA19-9,Siemens ADVIA,Abbott Alinity,0.956,2.58
+CA19-9,Siemens ADVIA,Siemens Atellica,0.614,-3.84
+CA19-9,Siemens ADVIA,Roche e411,0.646,-4.59
+CA19-9,Beckman DxI,Roche cobas,1.455,2.04
+CA19-9,Beckman DxI,Abbott ARCHITECT,1.074,-4.02
+CA19-9,Beckman DxI,Siemens ADVIA,1.092,-0.27
+CA19-9,Beckman DxI,VITROS,0.773,-0.66
+CA19-9,Beckman DxI,bioMérieux VIDAS,0.999,1.16
+CA19-9,Beckman DxI,Abbott Alinity,1.235,-4.55
+CA19-9,Beckman DxI,Siemens Atellica,0.975,1.26
+CA19-9,Beckman DxI,Roche e411,1.103,3.56
+CA19-9,VITROS,Roche cobas,1.259,-3.37
+CA19-9,VITROS,Abbott ARCHITECT,0.671,1.42
+CA19-9,VITROS,Siemens ADVIA,0.627,0.86
+CA19-9,VITROS,Beckman DxI,1.54,0.75
+CA19-9,VITROS,bioMérieux VIDAS,0.988,1.43
+CA19-9,VITROS,Abbott Alinity,1.058,0.46
+CA19-9,VITROS,Siemens Atellica,1.541,-1.14
+CA19-9,VITROS,Roche e411,1.561,4.05
+CA19-9,bioMérieux VIDAS,Roche cobas,0.796,-4.31
+CA19-9,bioMérieux VIDAS,Abbott ARCHITECT,0.701,-4.82
+CA19-9,bioMérieux VIDAS,Siemens ADVIA,0.694,1.83
+CA19-9,bioMérieux VIDAS,Beckman DxI,0.671,-1.81
+CA19-9,bioMérieux VIDAS,VITROS,1.445,-4.77
+CA19-9,bioMérieux VIDAS,Abbott Alinity,1.414,-2.18
+CA19-9,bioMérieux VIDAS,Siemens Atellica,0.718,1.97
+CA19-9,bioMérieux VIDAS,Roche e411,1.229,3.77
+CA19-9,Abbott Alinity,Roche cobas,1.335,3.03
+CA19-9,Abbott Alinity,Abbott ARCHITECT,0.882,-3.23
+CA19-9,Abbott Alinity,Siemens ADVIA,1.351,3.07
+CA19-9,Abbott Alinity,Beckman DxI,1.591,-0.87
+CA19-9,Abbott Alinity,VITROS,0.972,2.76
+CA19-9,Abbott Alinity,bioMérieux VIDAS,0.941,4.31
+CA19-9,Abbott Alinity,Siemens Atellica,1.458,-0.71
+CA19-9,Abbott Alinity,Roche e411,1.351,2.55
+CA19-9,Siemens Atellica,Roche cobas,0.703,4.03
+CA19-9,Siemens Atellica,Abbott ARCHITECT,1.105,3.26
+CA19-9,Siemens Atellica,Siemens ADVIA,0.92,3.96
+CA19-9,Siemens Atellica,Beckman DxI,0.989,-4.89
+CA19-9,Siemens Atellica,VITROS,1.505,-4.09
+CA19-9,Siemens Atellica,bioMérieux VIDAS,0.919,4.5
+CA19-9,Siemens Atellica,Abbott Alinity,1.551,0.73
+CA19-9,Siemens Atellica,Roche e411,1.232,-0.52
+CA19-9,Roche e411,Roche cobas,0.893,-1.71
+CA19-9,Roche e411,Abbott ARCHITECT,1.273,2.52
+CA19-9,Roche e411,Siemens ADVIA,1.392,2.9
+CA19-9,Roche e411,Beckman DxI,0.691,-0.06
+CA19-9,Roche e411,VITROS,0.658,0.5
+CA19-9,Roche e411,bioMérieux VIDAS,1.042,3.88
+CA19-9,Roche e411,Abbott Alinity,0.951,-3.83
+CA19-9,Roche e411,Siemens Atellica,0.743,2.62
+CEA,Roche cobas,Abbott ARCHITECT,1.218,-3.99
+CEA,Roche cobas,Siemens ADVIA,0.684,2.01
+CEA,Roche cobas,Beckman DxI,0.673,3.22
+CEA,Roche cobas,VITROS,1.306,-4.19
+CEA,Roche cobas,bioMérieux VIDAS,0.685,4.87
+CEA,Roche cobas,Abbott Alinity,0.974,-1.29
+CEA,Roche cobas,Siemens Atellica,1.413,4.47
+CEA,Roche cobas,Roche e411,1.586,2.53
+CEA,Abbott ARCHITECT,Roche cobas,0.976,-4.16
+CEA,Abbott ARCHITECT,Siemens ADVIA,1.377,0.58
+CEA,Abbott ARCHITECT,Beckman DxI,1.024,4.06
+CEA,Abbott ARCHITECT,VITROS,0.711,-0.07
+CEA,Abbott ARCHITECT,bioMérieux VIDAS,0.611,-0.31
+CEA,Abbott ARCHITECT,Abbott Alinity,0.656,-3.81
+CEA,Abbott ARCHITECT,Siemens Atellica,0.718,1.49
+CEA,Abbott ARCHITECT,Roche e411,1.346,0.83
+CEA,Siemens ADVIA,Roche cobas,1.562,-1.25
+CEA,Siemens ADVIA,Abbott ARCHITECT,0.886,3.69
+CEA,Siemens ADVIA,Beckman DxI,0.824,4.63
+CEA,Siemens ADVIA,VITROS,0.612,4.7
+CEA,Siemens ADVIA,bioMérieux VIDAS,0.643,3.91
+CEA,Siemens ADVIA,Abbott Alinity,1.128,4.93
+CEA,Siemens ADVIA,Siemens Atellica,0.674,0.54
+CEA,Siemens ADVIA,Roche e411,1.569,0.23
+CEA,Beckman DxI,Roche cobas,1.229,1.96
+CEA,Beckman DxI,Abbott ARCHITECT,1.055,1.28
+CEA,Beckman DxI,Siemens ADVIA,1.184,4.01
+CEA,Beckman DxI,VITROS,0.645,-2.19
+CEA,Beckman DxI,bioMérieux VIDAS,1.55,3.9
+CEA,Beckman DxI,Abbott Alinity,1.056,1.2
+CEA,Beckman DxI,Siemens Atellica,0.877,-3.12
+CEA,Beckman DxI,Roche e411,1.064,-1.47
+CEA,VITROS,Roche cobas,1.184,-4.22
+CEA,VITROS,Abbott ARCHITECT,1.574,4.86
+CEA,VITROS,Siemens ADVIA,1.298,0.36
+CEA,VITROS,Beckman DxI,0.91,3.14
+CEA,VITROS,bioMérieux VIDAS,1.285,-3.37
+CEA,VITROS,Abbott Alinity,1.511,3.23
+CEA,VITROS,Siemens Atellica,1.55,2.26
+CEA,VITROS,Roche e411,1.213,-0.82
+CEA,bioMérieux VIDAS,Roche cobas,1.533,3.66
+CEA,bioMérieux VIDAS,Abbott ARCHITECT,0.645,-4.74
+CEA,bioMérieux VIDAS,Siemens ADVIA,0.976,3.11
+CEA,bioMérieux VIDAS,Beckman DxI,1.587,-3.5
+CEA,bioMérieux VIDAS,VITROS,1.194,-1.19
+CEA,bioMérieux VIDAS,Abbott Alinity,1.57,3.42
+CEA,bioMérieux VIDAS,Siemens Atellica,1.438,-0.31
+CEA,bioMérieux VIDAS,Roche e411,1.015,-2.27
+CEA,Abbott Alinity,Roche cobas,0.656,3.65
+CEA,Abbott Alinity,Abbott ARCHITECT,1.413,5.0
+CEA,Abbott Alinity,Siemens ADVIA,1.597,0.55
+CEA,Abbott Alinity,Beckman DxI,1.369,4.45
+CEA,Abbott Alinity,VITROS,1.45,-2.53
+CEA,Abbott Alinity,bioMérieux VIDAS,1.051,-3.71
+CEA,Abbott Alinity,Siemens Atellica,1.554,1.06
+CEA,Abbott Alinity,Roche e411,0.829,1.72
+CEA,Siemens Atellica,Roche cobas,1.218,-1.42
+CEA,Siemens Atellica,Abbott ARCHITECT,0.714,1.72
+CEA,Siemens Atellica,Siemens ADVIA,1.12,2.72
+CEA,Siemens Atellica,Beckman DxI,1.12,3.52
+CEA,Siemens Atellica,VITROS,1.152,0.61
+CEA,Siemens Atellica,bioMérieux VIDAS,1.477,-0.97
+CEA,Siemens Atellica,Abbott Alinity,0.734,-4.71
+CEA,Siemens Atellica,Roche e411,1.355,1.2
+CEA,Roche e411,Roche cobas,1.304,-2.87
+CEA,Roche e411,Abbott ARCHITECT,0.736,-4.85
+CEA,Roche e411,Siemens ADVIA,0.951,0.9
+CEA,Roche e411,Beckman DxI,0.992,-0.63
+CEA,Roche e411,VITROS,1.504,-1.52
+CEA,Roche e411,bioMérieux VIDAS,1.114,2.84
+CEA,Roche e411,Abbott Alinity,0.997,1.22
+CEA,Roche e411,Siemens Atellica,1.462,4.5
+hCG,Roche cobas,Abbott ARCHITECT,0.747,4.27
+hCG,Roche cobas,Siemens ADVIA,1.092,-2.42
+hCG,Roche cobas,Beckman DxI,1.059,4.8
+hCG,Roche cobas,VITROS,1.093,-1.71
+hCG,Roche cobas,bioMérieux VIDAS,1.233,-2.6
+hCG,Roche cobas,Abbott Alinity,0.676,-3.71
+hCG,Roche cobas,Siemens Atellica,0.728,-3.48
+hCG,Roche cobas,Roche e411,0.739,1.41
+hCG,Abbott ARCHITECT,Roche cobas,0.782,-1.54
+hCG,Abbott ARCHITECT,Siemens ADVIA,1.497,-0.26
+hCG,Abbott ARCHITECT,Beckman DxI,1.268,-3.28
+hCG,Abbott ARCHITECT,VITROS,0.792,-4.59
+hCG,Abbott ARCHITECT,bioMérieux VIDAS,0.769,-2.21
+hCG,Abbott ARCHITECT,Abbott Alinity,0.777,-4.11
+hCG,Abbott ARCHITECT,Siemens Atellica,0.721,-0.39
+hCG,Abbott ARCHITECT,Roche e411,0.806,-1.36
+hCG,Siemens ADVIA,Roche cobas,1.103,1.9
+hCG,Siemens ADVIA,Abbott ARCHITECT,0.639,2.99
+hCG,Siemens ADVIA,Beckman DxI,1.228,-4.18
+hCG,Siemens ADVIA,VITROS,1.474,4.21
+hCG,Siemens ADVIA,bioMérieux VIDAS,0.661,-2.23
+hCG,Siemens ADVIA,Abbott Alinity,1.406,2.48
+hCG,Siemens ADVIA,Siemens Atellica,0.785,-2.91
+hCG,Siemens ADVIA,Roche e411,0.97,-0.15
+hCG,Beckman DxI,Roche cobas,1.218,-1.31
+hCG,Beckman DxI,Abbott ARCHITECT,1.063,2.47
+hCG,Beckman DxI,Siemens ADVIA,0.637,-2.48
+hCG,Beckman DxI,VITROS,1.313,3.95
+hCG,Beckman DxI,bioMérieux VIDAS,1.112,0.32
+hCG,Beckman DxI,Abbott Alinity,0.707,-0.53
+hCG,Beckman DxI,Siemens Atellica,1.133,-2.58
+hCG,Beckman DxI,Roche e411,0.869,-1.23
+hCG,VITROS,Roche cobas,0.62,-1.78
+hCG,VITROS,Abbott ARCHITECT,0.811,-1.73
+hCG,VITROS,Siemens ADVIA,0.72,3.91
+hCG,VITROS,Beckman DxI,1.194,1.79
+hCG,VITROS,bioMérieux VIDAS,1.389,-0.02
+hCG,VITROS,Abbott Alinity,0.687,0.37
+hCG,VITROS,Siemens Atellica,1.187,2.45
+hCG,VITROS,Roche e411,1.032,-3.72
+hCG,bioMérieux VIDAS,Roche cobas,0.884,-1.37
+hCG,bioMérieux VIDAS,Abbott ARCHITECT,1.246,0.71
+hCG,bioMérieux VIDAS,Siemens ADVIA,0.956,4.87
+hCG,bioMérieux VIDAS,Beckman DxI,1.206,-2.63
+hCG,bioMérieux VIDAS,VITROS,0.702,-3.47
+hCG,bioMérieux VIDAS,Abbott Alinity,0.846,-3.39
+hCG,bioMérieux VIDAS,Siemens Atellica,0.787,-2.15
+hCG,bioMérieux VIDAS,Roche e411,0.773,3.97
+hCG,Abbott Alinity,Roche cobas,0.68,0.25
+hCG,Abbott Alinity,Abbott ARCHITECT,1.01,4.82
+hCG,Abbott Alinity,Siemens ADVIA,0.712,-1.02
+hCG,Abbott Alinity,Beckman DxI,1.569,3.66
+hCG,Abbott Alinity,VITROS,1.417,-2.42
+hCG,Abbott Alinity,bioMérieux VIDAS,0.771,1.69
+hCG,Abbott Alinity,Siemens Atellica,1.529,0.57
+hCG,Abbott Alinity,Roche e411,1.172,-2.2
+hCG,Siemens Atellica,Roche cobas,1.369,-3.13
+hCG,Siemens Atellica,Abbott ARCHITECT,0.924,-0.75
+hCG,Siemens Atellica,Siemens ADVIA,1.108,-2.58
+hCG,Siemens Atellica,Beckman DxI,0.715,1.11
+hCG,Siemens Atellica,VITROS,0.889,0.81
+hCG,Siemens Atellica,bioMérieux VIDAS,0.754,-0.19
+hCG,Siemens Atellica,Abbott Alinity,1.133,-4.48
+hCG,Siemens Atellica,Roche e411,0.937,-3.66
+hCG,Roche e411,Roche cobas,0.663,4.9
+hCG,Roche e411,Abbott ARCHITECT,0.922,3.1
+hCG,Roche e411,Siemens ADVIA,0.855,1.82
+hCG,Roche e411,Beckman DxI,1.36,0.96
+hCG,Roche e411,VITROS,1.072,-0.88
+hCG,Roche e411,bioMérieux VIDAS,0.949,4.3
+hCG,Roche e411,Abbott Alinity,1.431,4.65
+hCG,Roche e411,Siemens Atellica,0.724,2.31
+PSA,Roche cobas,Abbott ARCHITECT,1.538,-3.19
+PSA,Roche cobas,Siemens ADVIA,0.666,2.41
+PSA,Roche cobas,Beckman DxI,1.174,3.42
+PSA,Roche cobas,VITROS,0.74,2.95
+PSA,Roche cobas,bioMérieux VIDAS,0.802,-3.36
+PSA,Roche cobas,Abbott Alinity,0.764,3.15
+PSA,Roche cobas,Siemens Atellica,1.265,0.23
+PSA,Roche cobas,Roche e411,0.959,3.77
+PSA,Abbott ARCHITECT,Roche cobas,0.992,3.17
+PSA,Abbott ARCHITECT,Siemens ADVIA,1.039,-1.23
+PSA,Abbott ARCHITECT,Beckman DxI,1.063,-1.99
+PSA,Abbott ARCHITECT,VITROS,1.348,0.03
+PSA,Abbott ARCHITECT,bioMérieux VIDAS,0.832,4.0
+PSA,Abbott ARCHITECT,Abbott Alinity,0.984,0.44
+PSA,Abbott ARCHITECT,Siemens Atellica,1.506,1.24
+PSA,Abbott ARCHITECT,Roche e411,0.717,4.4
+PSA,Siemens ADVIA,Roche cobas,1.228,-1.65
+PSA,Siemens ADVIA,Abbott ARCHITECT,0.739,2.94
+PSA,Siemens ADVIA,Beckman DxI,1.22,0.33
+PSA,Siemens ADVIA,VITROS,1.494,2.89
+PSA,Siemens ADVIA,bioMérieux VIDAS,0.752,-1.88
+PSA,Siemens ADVIA,Abbott Alinity,0.848,2.44
+PSA,Siemens ADVIA,Siemens Atellica,0.634,0.7
+PSA,Siemens ADVIA,Roche e411,1.362,3.77
+PSA,Beckman DxI,Roche cobas,0.942,3.21
+PSA,Beckman DxI,Abbott ARCHITECT,0.711,3.46
+PSA,Beckman DxI,Siemens ADVIA,0.727,-1.03
+PSA,Beckman DxI,VITROS,1.397,-3.5
+PSA,Beckman DxI,bioMérieux VIDAS,0.829,2.22
+PSA,Beckman DxI,Abbott Alinity,1.32,1.41
+PSA,Beckman DxI,Siemens Atellica,1.294,0.43
+PSA,Beckman DxI,Roche e411,0.852,-1.54
+PSA,VITROS,Roche cobas,0.782,4.08
+PSA,VITROS,Abbott ARCHITECT,1.183,-0.99
+PSA,VITROS,Siemens ADVIA,1.062,4.47
+PSA,VITROS,Beckman DxI,0.753,0.86
+PSA,VITROS,bioMérieux VIDAS,1.106,1.11
+PSA,VITROS,Abbott Alinity,0.618,3.72
+PSA,VITROS,Siemens Atellica,1.532,0.65
+PSA,VITROS,Roche e411,1.297,4.22
+PSA,bioMérieux VIDAS,Roche cobas,1.307,-3.47
+PSA,bioMérieux VIDAS,Abbott ARCHITECT,1.176,1.07
+PSA,bioMérieux VIDAS,Siemens ADVIA,1.024,2.36
+PSA,bioMérieux VIDAS,Beckman DxI,1.534,4.26
+PSA,bioMérieux VIDAS,VITROS,1.051,-3.87
+PSA,bioMérieux VIDAS,Abbott Alinity,1.585,3.39
+PSA,bioMérieux VIDAS,Siemens Atellica,0.725,4.21
+PSA,bioMérieux VIDAS,Roche e411,1.47,0.19
+PSA,Abbott Alinity,Roche cobas,1.191,-1.01
+PSA,Abbott Alinity,Abbott ARCHITECT,0.655,-1.65
+PSA,Abbott Alinity,Siemens ADVIA,1.403,-4.95
+PSA,Abbott Alinity,Beckman DxI,0.933,-1.02
+PSA,Abbott Alinity,VITROS,1.137,4.2
+PSA,Abbott Alinity,bioMérieux VIDAS,0.946,-1.53
+PSA,Abbott Alinity,Siemens Atellica,1.338,-0.48
+PSA,Abbott Alinity,Roche e411,0.825,-0.48
+PSA,Siemens Atellica,Roche cobas,0.741,-3.24
+PSA,Siemens Atellica,Abbott ARCHITECT,1.098,-0.81
+PSA,Siemens Atellica,Siemens ADVIA,1.515,-1.38
+PSA,Siemens Atellica,Beckman DxI,1.181,1.32
+PSA,Siemens Atellica,VITROS,0.613,1.64
+PSA,Siemens Atellica,bioMérieux VIDAS,0.778,4.61
+PSA,Siemens Atellica,Abbott Alinity,0.749,-0.85
+PSA,Siemens Atellica,Roche e411,0.685,4.97
+PSA,Roche e411,Roche cobas,1.102,0.95
+PSA,Roche e411,Abbott ARCHITECT,0.667,2.5
+PSA,Roche e411,Siemens ADVIA,0.81,3.98
+PSA,Roche e411,Beckman DxI,0.805,-3.09
+PSA,Roche e411,VITROS,0.637,-0.28
+PSA,Roche e411,bioMérieux VIDAS,1.165,-4.34
+PSA,Roche e411,Abbott Alinity,1.376,-0.47
+PSA,Roche e411,Siemens Atellica,1.124,-0.59
